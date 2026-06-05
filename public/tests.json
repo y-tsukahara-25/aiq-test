@@ -1,0 +1,58 @@
+[
+  {
+    "id": "test4",
+    "label": "#4 AI使用可能テスト",
+    "description": "AI順応性・プロンプト設計・ツール習熟度・業務応用・構造化思考の5分野を網羅した総合テスト",
+    "level": "中級",
+    "timeGuide": "約20分",
+    "file": "/questions/test4.json"
+  },
+  {
+    "id": "test5",
+    "label": "#5 革新的評価テスト",
+    "description": "AIの基礎知識から業務応用まで、実践的なスキルを問う新版テスト",
+    "level": "初〜中級",
+    "timeGuide": "約20分",
+    "file": "/questions/test5.json"
+  },
+  {
+    "id": "test6",
+    "label": "#6 上級AIQテスト",
+    "description": "高度なプロンプト手法・AI倫理・最新技術トレンドを問う上級者向けテスト",
+    "level": "上級",
+    "timeGuide": "約25分",
+    "file": "/questions/test6.json"
+  },
+  {
+    "id": "test7",
+    "label": "#7 総合AI技術・実務活用テスト",
+    "description": "GeminiとChatGPTの最新機能・LLM技術・API活用・ROI測定を問う実務特化テスト",
+    "level": "上級",
+    "timeGuide": "約25分",
+    "file": "/questions/test7.json"
+  },
+  {
+    "id": "test9",
+    "label": "#9 AI活用知識試験（Manus編）",
+    "description": "AIエージェント「Manus」の機能・使い方・活用コンセプトを問うManus特化テスト",
+    "level": "中級",
+    "timeGuide": "約20分",
+    "file": "/questions/test9.json"
+  },
+  {
+    "id": "test10",
+    "label": "#10 総合AIQテスト【2025年12月版】",
+    "description": "ManusとGeminiの最新機能・AI時事問題・倫理を問う最新版テスト",
+    "level": "中〜上級",
+    "timeGuide": "約25分",
+    "file": "/questions/test10.json"
+  },
+  {
+    "id": "test11",
+    "label": "#11 ManusとGemini使い分けテスト【Webマーケ編】",
+    "description": "Webマーケティング（MM部門・CC部門）の実務でManusとGeminiを使い分ける能力を問うテスト",
+    "level": "実務応用",
+    "timeGuide": "約20分",
+    "file": "/questions/test11.json"
+  }
+]
